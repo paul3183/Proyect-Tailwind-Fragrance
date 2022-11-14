@@ -4,7 +4,10 @@ function App() {
   return (
     <div className='bg-cream App h-screen px-4 py-7'>
       <div className='bg-white rounded-[10px] overflow-hidden'>
-        <img src={'../images/image-product-mobile.jpg'} alt={image - perfum} />
+        <img
+          src={'../public/images/image-product-mobile.jpg'}
+          alt={image - perfum}
+        />
         <div className='h-[400px] p-5'>
           <h3 className='text-grayishblue text-[15px] tracking-[4px]'>
             PERFUME
