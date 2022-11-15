@@ -1,5 +1,5 @@
 import './App.css'
-import image1 from '../public/images/image-product-mobile.jpg'
+import image1 from './assets/images/image-product-mobile.jpg'
 
 function App() {
   return (
